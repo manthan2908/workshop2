@@ -18,3 +18,7 @@ for label,count in word_dict.items():
     for i in range(0,percentage,5):
         print("*")
     print("]", percentage, "%")
+
+
+
+    
